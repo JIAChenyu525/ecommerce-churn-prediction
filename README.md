@@ -89,16 +89,9 @@ ecommerce-churn-prediction/
 
 ## ▶ 如何运行
 ```bash
-# 1. 安装依赖环境
 pip install -r requirements.txt
 
-# 2. 执行自动化全流程
 python run_pipeline.py
-
-# 3. 结果输出位置
-# - 分析报告: reports/analysis_report.pdf
-# - 交互仪表盘: dashboard/
-# - 模型评估: notebooks/03_model.ipynb
 ```
 
 > **运行说明**  
